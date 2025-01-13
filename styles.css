@@ -1,0 +1,22 @@
+.title,
+.recipetitle{
+    color: black;
+    text-align: center;
+    background-color: yellow;
+    font-size: 40px;
+    font-family:'Times New Roman', Times, serif;
+}
+.recipetitle{
+    background-color: orange;
+}
+li {
+    font-size: 18px;
+}
+.text, 
+.home {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+.home {
+    font-size: 20px;
+}
