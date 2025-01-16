@@ -2,7 +2,7 @@
 .recipetitle{
     color: black;
     text-align: center;
-    background-color: yellow;
+    background-color: grey;
     font-size: 40px;
     font-family:'Times New Roman', Times, serif;
 }
@@ -19,4 +19,12 @@ li {
 }
 .home {
     font-size: 20px;
+}
+.indexlistitem {
+    width: 300px;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+    background-color: rgb(114, 250, 143);
+    margin: 5px;
 }
